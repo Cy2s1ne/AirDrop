@@ -1,0 +1,35 @@
+# Maven 构建输出
+/target/
+
+# IDE 配置 (IntelliJ IDEA/Eclipse)
+/.idea/
+/.iml
+/.project
+/.classpath
+/.settings/
+
+# 操作系统文件
+.DS_Store
+Thumbs.db
+
+# 本地环境配置
+.env
+/application-local.yml
+/config/local/
+
+# 日志文件
+/logs/
+*.log
+
+# 临时文件
+/temp/
+/tmp/
+
+# Thymeleaf 缓存
+/src/main/resources/templates/cache/
+
+# Maven 依赖缓存
+/mvn/
+
+# Git 本地提交历史
+/.git/
