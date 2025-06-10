@@ -226,7 +226,7 @@ src/
 
 ## 👨‍💻 作者
 
-- **[您的姓名]** - *初始工作* - [您的GitHub](https://github.com/yourusername)
+- **[Cy2s1ne]** - *学生* - [https://github.com/Cy2s1ne](https://github.com/yourusername)
 
 ## 📝 致谢
 
